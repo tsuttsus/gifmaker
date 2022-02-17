@@ -19,4 +19,4 @@ JPG形式の画像からGIF形式のアニメーションを生成するソフ�
 ## GIF構成例
 ![GIF構成例](https://user-images.githubusercontent.com/64194219/154474792-9ac54573-41a0-413a-9802-d58dd1710eff.gif)
 - 出典: https://www.youtube.com/watch?v=9RRwfblvlFg
-    - コメント:全部夢のまま
+    - コメント:与田ちゃん可愛いね
